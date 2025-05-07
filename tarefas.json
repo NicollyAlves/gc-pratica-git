@@ -1,5 +1,6 @@
 [
     { "id": 1, "titulo": "Estudar Git", "descricao": "Praticar comandos Git e GitHub", "concluida": false },
     { "id": 2, "titulo": "Fazer o commit inicial", "descricao": "Criar um repositório e enviar o primeiro commit", "concluida": false },
-    { "id": 3, "titulo": "Testar Pull Request", "descricao": "Criar uma branch e realizar o pull request", "concluida": false }
+    { "id": 3, "titulo": "Testar Pull Request", "descricao": "Criar uma branch e realizar o pull request", "concluida": false },
+    { "id": 4, "titulo": "Finalizar o Projeto", "descricao": "Finalizar a parte de Git e GitHub", "concluida": false }
 ]
